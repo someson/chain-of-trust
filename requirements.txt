@@ -1,1 +1,1 @@
-./utils_lib/dist/utils_lib-0.0.1-py3-none-any.whl --hash=sha256:b6e073ce1c4be565ef40262b296266d6e6b62abf97d651b6d853c2debde94d23
+requests==2.32.0
